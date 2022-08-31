@@ -1,7 +1,7 @@
 package device
 
 import (
-	"github.com/vladimirvivien/go4vl/v4l2"
+	"github.com/Java2019/go4vlv1/v4l2"
 )
 
 type config struct {
