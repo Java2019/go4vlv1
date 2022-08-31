@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/vladimirvivien/go4vl/device"
-	"github.com/vladimirvivien/go4vl/v4l2"
+	"github.com/Java2019/go4vlv1/device"
+	"github.com/Java2019/go4vlv1/v4l2"
 )
 
 var (
